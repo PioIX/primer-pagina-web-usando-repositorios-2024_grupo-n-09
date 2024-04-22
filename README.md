@@ -12,12 +12,10 @@ El objetivo de esta parte del tp es que los integrantes del grupo apliquen el wo
 * cuando esten satisfechos con las modificaciones deberan efectuar un pull request, resolverlo si hay conflictos y mergearlo
 
 
-
-[borrar esto y personalizar el readme con sus datos]
-
-## Grupo Nº: 99
+## Grupo Nº: 09
 ## Integrantes:
-* pepe
-* pepito
-* pepa
-* pepita
+* Lawler
+* Berzzotti
+* Branca
+* Greco
+* Maydana
